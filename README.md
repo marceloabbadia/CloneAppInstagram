@@ -1,2 +1,2 @@
 # tela-app-reactnative
-trabalho do modulo react-native do serratec
+trabalho do módulo react-native do serratec
